@@ -113,51 +113,64 @@ Business & Research Insights
 
 ---
 
+
 ## 💡 Key Areas of Investigation
+
 - **Service Quality**
   - Analyzed passenger perceptions across different dimensions of airline service quality.
+
 - **Customer Loyalty**
   - Investigated demographic and service-related factors associated with customer loyalty.
+
 - **Passenger Emotions**
   - Explored emotional responses associated with airline service experiences.
+
 - **Customer Segmentation**
   - Applied cluster analysis to identify meaningful passenger groups based on their characteristics and responses.
+
 - **Predictive Modeling**
   - Applied logistic regression and decision tree techniques to examine and model customer-related outcomes.
 
 ---
 
 ## 🏆 Recognition
+
 - **🥇 1st Rank – Final Year MSc Project Presentation**
-  - K.C. College, HSNC University — April 2024 
+  - **Institution:** K.C. College, HSNC University
+  - **Date:** April 2024
   - The project was recognized for its analytical depth, statistical methodology, and presentation of actionable findings.
 
 ---
 
 ## 📊 Key Techniques Applied
-- Loglinear Analysis  
-- Cluster Analysis  
-- Logistic Regression  
-- Sentiment Analysis  
+
+- Loglinear Analysis
+- Cluster Analysis
+- Logistic Regression
+- Sentiment Analysis
 - Decision Tree Analysis
 
 ---
 
 ## 📁 Repository Contents
-* `MSc-BlackBook.pdf` – Full project documentation (100+ pages)
-* `Presentation-KC-College.pdf` – Final presentation slide deck
-* `Airlines_Data.xlsx` – Original Excel dataset
-* `SPSS_File.sav` – SPSS dataset file
 
-  Note: Some files may contain academic or research material and are provided for portfolio/documentation purposes where appropriate.
+- `MSc-BlackBook.pdf` – Full project documentation (100+ pages)
+- `Presentation-KC-College.pdf` – Final presentation slide deck
+- `Airlines_Data.xlsx` – Original Excel dataset
+- `SPSS_File.sav` – SPSS dataset file
+
+> **Note:** Some files may contain academic or research material and are provided for portfolio/documentation purposes where appropriate.
 
 ---
 
 ## 🎓 Academic Context
-- **Degree :** MSc Statistics
-- **Institution :** K.C. College, HSNC University
-- **Project :** Final Year Research Project
-- **Year :** 2024
+
+| Details | Information |
+|---|---|
+| **Degree** | MSc Statistics |
+| **Institution** | K.C. College, HSNC University |
+| **Project** | Final Year Research Project |
+| **Year** | 2024 |
 
 ---
 
@@ -165,26 +178,33 @@ Business & Research Insights
 
 This project demonstrates my ability to:
 
-* Work with primary survey data
-* Apply statistical methodology to real-world research questions
-* Perform exploratory and multivariate analysis
-* Build predictive models
-* Interpret statistical results
-* Communicate analytical findings
-* Translate quantitative analysis into practical insights
+- Work with primary survey data
+- Apply statistical methodology to real-world research questions
+- Perform exploratory and multivariate analysis
+- Build predictive models
+- Interpret statistical results
+- Communicate analytical findings
+- Translate quantitative analysis into practical insights
 
 ---
 
 ## 👨‍💻 Author
+
 **Shubham Umesh Raut**
-🎓 MSc Statistics
-📊 Data Analyst
-  
-[LinkedIn Profile](https://linkedin.com/in/shubham-raut-986bb1227)
+
+🎓 **MSc Statistics**  
+📊 **Data Analyst**
+
+[LinkedIn Profile](https://linkedin.com/in/shubham-raut-986bb1227)  
 [GitHub Profile](https://github.com/shubhamraut0209)
 
 ---
 
-## 📬 Feel free to connect!
-If you're interested in discussing the project, academic analytics, or service quality research—feel free to reach out!
+## 📬 Let's Connect
+
+If you're interested in discussing the project, academic analytics, statistical research, or data analytics, feel free to connect!
+
+---
+
+⭐ **If you find this project interesting, consider giving the repository a star!**
 
