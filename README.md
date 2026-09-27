@@ -109,33 +109,39 @@ Predictive Modeling
 Interpretation
         ↓
 Business & Research Insights
-'''
+
+---
 
 ## 💡 Key Areas of Investigation
 
-- **Service Quality**
-  - Analyzed passenger perceptions across different dimensions of airline service quality.
+### Service Quality
 
-- **Customer Loyalty**
-  - Investigated demographic and service-related factors associated with customer loyalty.
+Analyzed passenger perceptions across different dimensions of airline service quality.
 
-- **Passenger Emotions**
-  - Explored emotional responses associated with airline service experiences.
+### Customer Loyalty
 
-- **Customer Segmentation**
-  - Applied cluster analysis to identify meaningful passenger groups based on their characteristics and responses.
+Investigated demographic and service-related factors associated with customer loyalty.
 
-- **Predictive Modeling**
-  - Applied logistic regression and decision tree techniques to examine and model customer-related outcomes.
+### Passenger Emotions
+
+Explored emotional responses associated with airline service experiences.
+
+### Customer Segmentation
+
+Applied cluster analysis to identify meaningful passenger groups based on their characteristics and responses.
+
+### Predictive Modeling
+
+Applied logistic regression and decision tree techniques to examine and model customer-related outcomes.
 
 ---
 
 ## 🏆 Recognition
 
 - **🥇 1st Rank – Final Year MSc Project Presentation**
-  - **Institution:** K.C. College, HSNC University
-  - **Date:** April 2024
-  - The project was recognized for its analytical depth, statistical methodology, and presentation of actionable findings.
+- **Institution:** K.C. College, HSNC University
+- **Date:** April 2024
+- The project was recognized for its analytical depth, statistical methodology, and presentation of actionable findings.
 
 ---
 
@@ -151,10 +157,12 @@ Business & Research Insights
 
 ## 📁 Repository Contents
 
-- `MSc-BlackBook.pdf` – Full project documentation (100+ pages)
-- `Presentation-KC-College.pdf` – Final presentation slide deck
-- `Airlines_Data.xlsx` – Original Excel dataset
-- `SPSS_File.sav` – SPSS dataset file
+| File | Description |
+|---|---|
+| `MSc-BlackBook.pdf` | Full project documentation (100+ pages) |
+| `Presentation-KC-College.pdf` | Final project presentation |
+| `Airlines_Data.xlsx` | Original Excel dataset |
+| `SPSS_File.sav` | SPSS dataset / analysis file |
 
 > **Note:** Some files may contain academic or research material and are provided for portfolio/documentation purposes where appropriate.
 
